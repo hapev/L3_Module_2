@@ -18,6 +18,7 @@ public class IntroToFileIO {
 				System.out.print((char)c);
 				c = fr.read();
 				
+				
 			}
 			fr.close();
 		} catch (FileNotFoundException e) {
