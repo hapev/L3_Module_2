@@ -5,7 +5,7 @@ import java.io.IOException;
 
 import javax.swing.JOptionPane;
 
-public class numberOne {
+public class NumberOne {
 public static void main(String[] args) {
 	try {
 		FileWriter fw = new FileWriter("src/extra/numberOne.txt");
@@ -18,3 +18,6 @@ public static void main(String[] args) {
 	}
 }
 }
+
+
+//Copyright © 2018 by Evan Coats

@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import javax.swing.JFileChooser;
 
-public class numberTwo {
+public class NumberTwo {
 	public static void main(String[] args) {
 
 		try {
@@ -46,3 +46,6 @@ public class numberTwo {
 	}
 
 }
+
+
+//Copyright © 2018 by Evan Coats
