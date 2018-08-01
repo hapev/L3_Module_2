@@ -146,12 +146,12 @@ public class NumberFour implements ActionListener {
 		public void load() {
 			
 			for (JButton J:list) {
-				list.remove(J);
+				
 				panel2.remove(J);
 			
 			}
 			
-			
+			list.clear();
 				
 				
 				try {
@@ -187,3 +187,4 @@ public class NumberFour implements ActionListener {
 			}
 	}
 }
+//Copyright © 2018 by Evan Coats
